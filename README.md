@@ -8,11 +8,3 @@
 ---
 
 ## 💼 Umiejętności techniczne
-
-### 🔧 Nowe cechy języka C++17
-- ✅ `if constexpr` – kompilacyjne warunki (meta-programowanie)
-- ✅ `[[nodiscard]]`, `[[maybe_unused]]`, `[[fallthrough]]` – lepsza kontrola kodu
-- ✅ Strukturalne bindingi: `auto [key, value] = pair;`
-- ✅ Inicjalizacja w `if` i `switch`:  
-  ```cpp
-  if (auto it = map.find(key); it != map.end()) { ... }
